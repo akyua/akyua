@@ -8,9 +8,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akyua&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
-  <div aling="center">
-     ![Snake animation](https://github.com/akyua/akyua/blob/output/github-contribution-grid-snake.svg)
-    </div>
+<div aling="center">
+  ![Snake animation](https://github.com/akyua/akyua/blob/output/github-contribution-grid-snake.svg)
+</div>
   
  
     
