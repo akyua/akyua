@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/akyua">
-  <img width:"41%" height="150em" src="https://github-readme-stats.vercel.app/api?username=akyua&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img width:"41%" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akyua&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img width:"41%" height="150em" src="https://github-readme-stats-akyua.vercel.app/api?username=akyua&show_icons=true&theme=radical"/>
+  <img width:"41%" height="150em" src="https://github-readme-stats-akyua.vercel.app/api/top-langs/?username=akyua&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
   ##
