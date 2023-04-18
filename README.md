@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/akyua">
-  <img width:"41%" height="150em" src="https://github-readme-stats-akyua.vercel.app/api?username=akyua&show_icons=true&theme=radical"/>
-  <img width:"41%" height="150em" src="https://github-readme-stats-akyua.vercel.app/api/top-langs/?username=akyua&layout=compact&langs_count=7&theme=radical"/>
+  <img width:"41%" height="150em" src="https://github-readme-stats.vercel.app/api?username=akyua&&show_icons=true&theme=radical"/>
+  <img width:"41%" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akyua&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
   ##
@@ -16,9 +16,14 @@
    <img align="center" alt="akyua-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="akyua-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img align="center" alt="akyua-BOOT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="akyua-SASS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
+  <img align="center" alt="akyua-tailwind" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="akyua-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-   <img align="center" alt="akyua-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-   <img align="center" alt="akyua-CPP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="akyua-REACT" height="30" width="40"src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img align="center" alt="akyua-node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="akyua-npm" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
+  <img align="center" alt="akyua-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  <img align="center" alt="akyua-CPP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="akyua-GITHUB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
   <img align="center" alt="akyua-GIT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="akyua-VS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
