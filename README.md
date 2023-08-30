@@ -40,7 +40,7 @@
  
 <div align="center">
   
-  
+ ![Snake animation](https://github.com/akyua/akyua/blob/output/github-contribution-grid-snake-dark.svg)
   
 </div>
   
