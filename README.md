@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/akyua">
-  <img width:"41%" height="150em" src="https://github-readme-stats.vercel.app/api?username=akyua&&show_icons=true&theme=radical"/>
-  <img width:"41%" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akyua&layout=compact&langs_count=7&theme=radical"/>
+  <img width:"41%" height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=akyua&&show_icons=true&theme=radical"/>
+  <img width:"41%" height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=akyua&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
   ##
@@ -22,8 +22,7 @@
   <img align="center" alt="akyua-REACT" height="30" width="40"src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img align="center" alt="akyua-node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="akyua-npm" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
-  <img align="center" alt="akyua-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img align="center" alt="akyua-CPP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="akyua-JAVA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="akyua-GITHUB" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
   <img align="center" alt="akyua-GIT" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
   <img align="center" alt="akyua-VS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
@@ -41,7 +40,7 @@
  
 <div align="center">
   
-  ![Snake animation](https://github.com/akyua/akyua/blob/output/github-contribution-grid-snake.svg)
+  
   
 </div>
   
