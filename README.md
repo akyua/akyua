@@ -31,7 +31,6 @@
   <img align="center" alt="akyua-LINUX" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <img align="center" alt="akyua-LINUX" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg">
    <img align="center" alt="akyua-AFTER" height="30" width="40"src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg">
-   <img align="center" alt="akyua-PS" height="30" width="40"src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg">
    <img align="center" alt="akyua-PREMIERE" height="30" width="40"src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg">
 </div>
           
